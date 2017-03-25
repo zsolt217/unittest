@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/elso_fzsolt/elso_fzsolt/bin/Debug
+/elso_fzsolt/elso_fzsolt/obj/Debug
