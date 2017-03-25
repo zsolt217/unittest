@@ -48,7 +48,7 @@ namespace elso_fzsolt
             // Act
             var result = calculator.Add("1,1,1");
             // Assert
-            Assert.AreEqual(3, result);
+            Assert.AreEqual(2, result);
         }
         [Test]
         public void Test_Add_Should_GiveBack2_When_1_n_1_1()
